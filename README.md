@@ -1,1 +1,6 @@
-# CalculateCricketScore-A simple app to calculate score by adding runs .This project is part of udacity android developer program.
+# CalculateCricketScore-A simple app to calculate score by adding runs .Project as a part of Android Basics Nanodegree at Udacity.
+
+Features
+LinearLayout
+RelativeLayout
+ButtonView
